@@ -20,4 +20,3 @@ def addArray(a):
 	      
 first = Calculate()
 print(addArray(first.list1))
-print(first.list1)
