@@ -1,8 +1,5 @@
 import pytest
 
-import Caculate
-#import use actual file name 
-from Pythonian import *
 from Pythonian import Calculate
 from Pythonian import addArray
 
